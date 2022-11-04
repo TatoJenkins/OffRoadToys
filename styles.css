@@ -1,0 +1,34 @@
+#CardBox {
+    background-color: #F0EBCE;
+}
+
+#AboutBox {
+    margin-top: 50px;
+}
+
+#InfoBox {
+    margin-bottom: 50px;
+}
+
+#InfoCards {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#FAQPanel {
+    margin-bottom: 50px;
+}
+
+#ContactBox {
+    margin-top: 50px;
+}
+
+#HomepageButtons {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#PixelMountain {
+    background-color: aliceblue;
+    padding-top: 25px;
+    font-size: 0.8em;
+}
