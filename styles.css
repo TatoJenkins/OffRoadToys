@@ -41,6 +41,14 @@
     margin-top: 50px;
 }
 
+#AccessoriesTitle {
+    margin-bottom: 50px;
+}
+
+#AccessoriesList {
+    margin-bottom: 50px;
+}
+
 #PixelMountain {
     background-color: aliceblue;
     margin-top: -25px;
